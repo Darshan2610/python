@@ -1,0 +1,26 @@
+Linestyles:
+
+'-': Solid line
+'--': Dashed line
+':': Dotted line
+'-.': Dash-dot line
+
+Colors:
+Named colors: 'red', 'blue', 'green', etc.
+Hexadecimal colors: '#FF5733', '#4287f5', etc.
+RGB tuple: (0.2, 0.4, 0.6)
+RGBA tuple: (0.1, 0.2, 0.3, 0.5)
+
+Colormaps:
+'viridis': Perceptually uniform colormap (default in Matplotlib)
+'plasma': Colormap with high contrast and vibrant colors
+'coolwarm': Colormap with both cool and warm colors
+'cividis': Colormap designed for those with color vision deficiencies
+
+Markers:
+'o': Circle marker
+'s': Square marker
+'D': Diamond marker
+'^': Triangle marker
+'+': Plus marker
+'x': Cross marker
